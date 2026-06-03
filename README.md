@@ -161,5 +161,3 @@ I'm actively looking for **Data Analyst, Business Analyst, and Data Scientist** 
 <sub>Built with curiosity, Python, and a lot of <code>df.groupby()</code></sub>
 </div>
 
-- ⚡ Fun fact: ...
--->
