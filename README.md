@@ -15,7 +15,7 @@
 
 I'm a **BITS Pilani graduate** (Mech Engineering + M.Sc. Chemistry) with **2+ years of experience** turning messy, real-world data into decisions that actually move the needle.
 
-My analytics work spans two worlds — **production-grade ML projects** (churn prediction, revenue forecasting, geospatial classification) and **live business analytics** for a ₹8 Cr+ distribution operation where I track SKU-level profitability, demand cycles, and supply chain risk across 600+ customers and 3,300+ annual invoices.
+My analytics work spans two worlds — **production-grade ML projects** (churn prediction, revenue forecasting, geospatial classification) and **live business analytics** for a ₹7 Cr+ distribution operation where I track SKU-level profitability, demand cycles, and supply chain risk across 600+ customers and 3,300+ annual invoices.
 
 I don't just build models. I start with the business question, work backwards through the data, and ask *"so what?"* after every result.
 
