@@ -120,8 +120,8 @@ Managing analytics for a **₹8 Cr+ distribution operation** — this isn't acad
 - Managed demand planning across **276 monthly invoices and 600+ customers**, navigating a **2.4x seasonal revenue swing** (July ₹34.3L → November ₹14.1L)
 - Built SKU-level margin dashboards in Python and Excel across **102 active products** to surface pricing anomalies and support supplier negotiations
 
-### Data Analyst Intern — Quality Council of India *(Jan 2023 – June 2023)*
-*NITI Aayog · Ministry of Commerce Projects · New Delhi*
+### Analyst Intern — Quality Council of India *(Jan 2023 – June 2023)*
+*New Delhi*
 
 - Consolidated policy data across **10+ ministry-level projects** for senior government stakeholders
 - Improved operational reporting efficiency by **~40%** through Python and Excel-based data standardisation
