@@ -19,7 +19,7 @@ My analytics work spans two worlds — **production-grade ML projects** (churn p
 
 I don't just build models. I start with the business question, work backwards through the data, and ask *"so what?"* after every result.
 
-> 📍 Noida, India · Open to roles in Noida · Gurgaon · Hyderabad · Pune
+> 📍 Noida, India · Open to roles in Noida · Gurgaon · Hyderabad · Bangalore · Pune
 
 ---
 
@@ -100,7 +100,7 @@ Built a crash severity classifier and analytics dashboard on NYC collision data 
 
 | Project | Description | Tools |
 |---|---|---|
-| [AirBnB Tableau Analysis](./AirBnB%20Tableau%20Project) | NYC AirBnB pricing, bookings, and host analytics dashboard | Tableau |
+| [AirBnB Tableau Analysis](https://github.com/Rahulb1331/Projects/tree/main/AirBnB%20Tableau%20Project) | NYC AirBnB pricing, bookings, and host analytics dashboard | Tableau |
 | [Car Features Analysis](./Car%20Features%20Analysis) | EDA on vehicle dataset — price, fuel efficiency, market segmentation | Python, Pandas, Seaborn |
 | [NLP Projects](./NLP) | Text classification, topic modelling, spelling recommender | NLTK, SpaCy, LDA |
 | [Tumor Detection](./Tumor%20Detection) | ML classification model for medical diagnosis | Scikit-learn, Python |
