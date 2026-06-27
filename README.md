@@ -101,11 +101,11 @@ Built a crash severity classifier and analytics dashboard on NYC collision data 
 | Project | Description | Tools |
 |---|---|---|
 | [AirBnB Tableau Analysis](https://github.com/Rahulb1331/Projects/tree/main/AirBnB%20Tableau%20Project) | NYC AirBnB pricing, bookings, and host analytics dashboard | Tableau |
-| [Car Features Analysis](./Car%20Features%20Analysis) | EDA on vehicle dataset — price, fuel efficiency, market segmentation | Python, Pandas, Seaborn |
-| [NLP Projects](./NLP) | Text classification, topic modelling, spelling recommender | NLTK, SpaCy, LDA |
-| [Tumor Detection](./Tumor%20Detection) | ML classification model for medical diagnosis | Scikit-learn, Python |
-| [SQL Practice](./SQL%20Practice) | Complex query practice — joins, CTEs, window functions | SQL |
-| [COVID-19 Analysis](./Covid19%20Analysis) | Exploratory analysis on pandemic spread and trends | Python, Matplotlib |
+| [Car Features Analysis](https://github.com/Rahulb1331/Projects/tree/main/Car%20Features%20Analysis) | EDA on vehicle dataset — price, fuel efficiency, market segmentation | Python, Pandas, Seaborn |
+| [NLP Projects](https://github.com/Rahulb1331/Projects/tree/main/NLP) | Text classification, topic modelling, spelling recommender | NLTK, SpaCy, LDA |
+| [Tumor Detection](https://github.com/Rahulb1331/Projects/tree/main/Tumor%20Detection) | ML classification model for medical diagnosis | Scikit-learn, Python |
+| [SQL Practice](https://github.com/Rahulb1331/Projects/tree/main/SQL%20Practice) | Complex query practice — joins, CTEs, window functions | SQL |
+| [COVID-19 Analysis](https://github.com/Rahulb1331/Projects/tree/main/Covid19%20Analysis) | Exploratory analysis on pandemic spread and trends | Python, Matplotlib |
 
 ---
 
